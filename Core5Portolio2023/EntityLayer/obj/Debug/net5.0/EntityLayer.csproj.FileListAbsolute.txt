@@ -1,0 +1,12 @@
+C:\Users\ibrah\OneDrive\Masaüstü\Core5Portolio2023\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\ibrah\OneDrive\Masaüstü\Core5Portolio2023\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\ibrah\OneDrive\Masaüstü\Core5Portolio2023\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\Core5Portolio2023\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\Core5Portolio2023\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\OneDrive\Masaüstü\Core5Portolio2023\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\Core5Portolio2023\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Masaüstü\Core5Portolio2023\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\Core5Portolio2023\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\ibrah\OneDrive\Masaüstü\Core5Portolio2023\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\ibrah\OneDrive\Masaüstü\Core5Portolio2023\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\Core5Portolio2023\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
